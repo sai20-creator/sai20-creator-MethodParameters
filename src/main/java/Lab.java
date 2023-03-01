@@ -25,6 +25,7 @@ public class Lab {
      * @param text is a parameter passed into this method by whatever called it.
      * @return text.
      */
+    /*done */
     public String copy(String text){
         return text;
     }
